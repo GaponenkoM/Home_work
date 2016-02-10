@@ -2,15 +2,15 @@ body{
 	margin: 0 auto;
 }
 
-  /*BACKGROUND*/
-.polosa{ 
+	/*BACKGROUND*/
+.band{ 
 	position: fixed;
 	width: 1440px;
 	height: 806px;
 	background-color: #000000;
 }
 
-.fon{
+.base{
 	position: fixed;	
 	width: 1440px;
 	height: 802px;
@@ -18,8 +18,8 @@ body{
 	border-radius: 0 0 4px 4px;
 }
 
-  /*WHITE BLOCK*/
-.centr{
+	/*WHITE BLOCK*/
+.centre{
 	margin: 5px auto;
 	padding: 50px;
 	width: 412px;
@@ -32,8 +32,8 @@ body{
 	font-family: 'Times New Roman', serif;
 }
 
-  /*ELEMENTS OF THE WHITE BLOCK*/
-.kartinka{
+	/*ELEMENTS OF THE WHITE BLOCK*/
+.picture{
 	height: 240px;
 	margin-bottom: 20px;
 	border-bottom: 1px solid #7a7a7a;  
@@ -50,7 +50,7 @@ body{
 	height:110px;  
 }
 
-  /*FOTO*/
+	/*FOTO*/
 .foto{
 	display:block; 
 	margin:0 auto;
@@ -58,12 +58,12 @@ body{
 	border-radius: 10px;  
 }
 
-  /*ELEMENTS STYLE*/
-.ssulka{
+	/*ELEMENTS STYLE*/
+.reference{
 	color: blue;
 }
 
-.otstyp{
+.indent{
 	margin-bottom: 30px;
 }  
 
